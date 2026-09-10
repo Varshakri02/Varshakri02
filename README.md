@@ -9,7 +9,7 @@
   
   <br>
 
-  <img src="https://anime-counter.lulushu.workers.dev/@Varshakri02" alt="Visitor Counter" />
+  ![Visitor Counter](https://anime-counter.lulushu.workers.dev/@Varshakri02?theme=naruto)
 
 </div>
 
