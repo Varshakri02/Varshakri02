@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>Hi 👋, I'm Minakshi</h1>
+  <h1>Hi 👋, I'm Varsha</h1>
   <h3>A passionate developer from India trying to contribute more to this space. Welcome! ❤️</h3>
 
   <p align="center">
@@ -9,7 +9,7 @@
   
   <br>
 
-  <img src="https://anime-counter.lulushu.workers.dev/@Varshakri02?theme=naruto" alt="Visitor Counter" width="150" />
+  <img src="https://anime-counter.lulushu.workers.dev/@Varshakri02?theme=naruto" alt="Visitor Counter" width="480" />
 
 </div>
 
