@@ -4,9 +4,9 @@
   <h3>A passionate developer from India trying to contribute more to this space. Welcome❤️!</h3>
 
   <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWN4MWtnb2U3bzJ5ZnN4cTE2ZHhyNmFpbHY5eTQ0cDVyMnltaWR0OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" alt="Programming Cat Meme" width="280" />
+    <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWN4MWtnb2U3bzJ5ZnN4cTE2ZHhyNmFpbHY5eTQ0cDVyMnltaWR0OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWN4MWtnb2U3bzJ5ZnN4cTE2ZHhyNmFpbHY5eTQ0cDVyMnltaWR0OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mcsPU3SkKrYDdW3aAU/giphy.gif)" alt="Programming Cat Meme" width="280" />
     &nbsp;&nbsp;
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWN4MWtnb2U3bzJ5ZnN4cTE2ZHhyNmFpbHY5eTQ0cDVyMnltaWR0OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Cat Meme 2" width="280" />
+
   </p>
   
   <br>
