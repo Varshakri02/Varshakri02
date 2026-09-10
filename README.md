@@ -9,7 +9,7 @@
   
   <br>
 
-  <img src="https://anime-counter.lulushu.workers.dev/@Varshakri02?theme=naruto" alt="Visitor Counter" width="150" />
+  <img src="https://anime-counter.lulushu.workers.dev/@Varshakri02?theme=naruto" alt="Visitor Counter" width="500" />
 
 </div>
 
