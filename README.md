@@ -1,17 +1,15 @@
 <div align="center">
   
   <h1>Hi 👋, I'm Varsha</h1>
-  <h3>A passionate developer from India trying to contribute more to this space. Welcome❤️!</h3>
+  <h3>A passionate developer from India trying to contribute more to this space. Welcome! ❤️</h3>
 
   <p align="center">
-    <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWN4MWtnb2U3bzJ5ZnN4cTE2ZHhyNmFpbHY5eTQ0cDVyMnltaWR0OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWN4MWtnb2U3bzJ5ZnN4cTE2ZHhyNmFpbHY5eTQ0cDVyMnltaWR0OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mcsPU3SkKrYDdW3aAU/giphy.gif)" alt="Programming Cat Meme" width="280" />
-    &nbsp;&nbsp;
-
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWN4MWtnb2U3bzJ5ZnN4cTE2ZHhyNmFpbHY5eTQ0cDVyMnltaWR0OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Cat Meme" width="280" />
   </p>
   
   <br>
 
-  <img src="https://komarev.com/ghpvc/?username=varshakri02&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://anime-counter.lulushu.workers.dev/@Varshakri02" alt="Visitor Counter" />
 
 </div>
 
